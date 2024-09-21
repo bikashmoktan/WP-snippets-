@@ -7,11 +7,11 @@ This repository contains a collection of useful WordPress snippets organized int
 
 ### Snippets
 
-- **[custom-post-types.php](snippets/custom-post-types.php)**: Register custom post types for versatile content management.
-- **[shortcodes.php](snippets/shortcodes.php)**: Create custom shortcodes for reusable content.
-- **[wp_enqueue_scripts.php](snippets/wp_enqueue_scripts.php)**: Properly enqueue scripts and styles in WordPress.
-- **[theme-support.php](snippets/theme-support.php)**: Enable theme features such as post thumbnails and menus.
-- **[widgets.php](snippets/widgets.php)**: Create custom widgets for enhanced sidebar functionality.
+- **[custom-post-types.php](src/custom-post-types.php)**: Register custom post types for versatile content management.
+- **[shortcodes.php](src/shortcodes.php)**: Create custom shortcodes for reusable content.
+- **[wp_enqueue_scripts.php](src/wp_enqueue_scripts.php)**: Properly enqueue scripts and styles in WordPress.
+- **[theme-support.php](src/theme-support.php)**: Enable theme features such as post thumbnails and menus.
+- **[widgets.php](src/widgets.php)**: Create custom widgets for enhanced sidebar functionality.
 
 ## Usage
 
